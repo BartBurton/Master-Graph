@@ -1,0 +1,17 @@
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\MasterGraph.exe
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\MasterGraph.deps.json
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\MasterGraph.runtimeconfig.json
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\MasterGraph.runtimeconfig.dev.json
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\MasterGraph.dll
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\ref\MasterGraph.dll
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\bin\Debug\net5.0-windows\MasterGraph.pdb
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.Form1.resources
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.csproj.GenerateResource.cache
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.AssemblyInfoInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.AssemblyInfo.cs
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.dll
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\ref\MasterGraph.dll
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.pdb
+C:\Users\MAXXXYMIRON\Desktop\Progs\Master Graph\test\obj\Debug\net5.0-windows\MasterGraph.genruntimeconfig.cache

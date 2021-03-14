@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MasterGraph/1.0.0": {
+        "runtime": {
+          "MasterGraph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasterGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
